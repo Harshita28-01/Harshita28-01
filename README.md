@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshita Varshney</h1>
 <h3 align="center">A passionate programmer from India</h3>
 <p align = "center"><img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3917576/support.gif"></p>
-
+<br>
 
 - 💬 Ask me about **Machine Learning and Full-stack web development(MERN)**
 
