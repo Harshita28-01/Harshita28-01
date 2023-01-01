@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshita Varshney</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-- 💬 Ask me about **Machine Learning, Full-stack web development(MERN)**
+- 💬 Ask me about **Machine Learning and Full-stack web development(MERN)**
 
 - 📫 How to reach me **harshita.varshney.2801@gmail.com**
 
