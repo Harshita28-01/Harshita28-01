@@ -2,9 +2,12 @@
 <h3 align="center">A passionate programmer from India</h3>
 <p align = "center"><img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3917576/support.gif"></p>
 
+
 - 💬 Ask me about **Machine Learning and Full-stack web development(MERN)**
 
 - 📫 How to reach me **harshita.varshney.2801@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
