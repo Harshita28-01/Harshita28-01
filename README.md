@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harshita Varshney</h1>
-<h3 align="center">A passionate programmer from India</h3><br>
+<h1 align="center">Hi, I'm Harshita Varshney</h1>
+<h3 align="center">A tech enthusiast from India</h3><br>
 <p align = "center"><img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"></p>
 <br>
 
